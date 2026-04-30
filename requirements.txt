@@ -1,0 +1,14 @@
+# Cloudburst Detection Model Dependencies
+pandas==3.0.2
+openpyxl==3.1.5
+numpy>=2.0
+Pillow
+scikit-learn
+matplotlib
+
+# PyTorch (CPU) — install with:
+# pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cpu
+# OR for CUDA 11.8:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
